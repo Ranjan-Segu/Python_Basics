@@ -1,0 +1,5 @@
+#Python Arithmetic Operators and Their Return Types
+
+
+**Operators themselves don't permanently "give float" or "give int".**
+**The result depends on the operator and the types of the operands.**
